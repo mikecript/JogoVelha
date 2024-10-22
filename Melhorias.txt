@@ -1,0 +1,7 @@
+1. Estrutura HTML Limpa
+2. Estilo Moderno
+3. Melhoria na Interatividade
+4. Acessibilidade
+5. Limpeza de Código
+
+
